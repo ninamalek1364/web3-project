@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "typeit-react": "^2.7.1"
+  }
+}
